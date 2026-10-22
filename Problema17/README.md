@@ -1,8 +1,10 @@
-﻿# Problema17. Registro electoral
+﻿# Problema 17. Control de un reproductor
 
-**Estructura elegida:** 
+Un reproductor de música recibe comandos de texto: “play”, “pause”, “stop”, “next”. Cada comando imprime un mensaje distinto (`Reproduciendo...`, `En pausa`, `Detenido`, `Siguiente canción`). Un comando desconocido imprime `Comando no reconocido`.
 
-**Justificación:** 
+**Estructura elegida:** switch tradicional 
+
+**Justificación:** conciso y legible
 
 **Evidencia:**
-![Salida](evidencias/salida.png)
+![Salida](evidencias/image.png)
