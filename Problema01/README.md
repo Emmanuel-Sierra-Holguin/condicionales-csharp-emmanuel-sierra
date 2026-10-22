@@ -1,4 +1,4 @@
-
+﻿
 # Problema 1. Registro electoral
 
 La Registraduría necesita un programa que reciba la edad de una persona e informe si puede votar (16 años o más en este ejercicio) o si todavía no puede hacerlo.
