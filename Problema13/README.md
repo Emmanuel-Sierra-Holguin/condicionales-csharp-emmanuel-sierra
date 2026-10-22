@@ -1,8 +1,13 @@
-﻿# Problema13. Registro electoral
+﻿### Problema 13. Códigos de país
 
-**Estructura elegida:** 
+Un formulario web recibe un código de país de dos letras y debe guardar en una variable el nombre completo:
 
-**Justificación:** 
+- “CO” → Colombia · “MX” → México · “AR” → Argentina · “PE” → Perú · “CL” → Chile
+- Cualquier otro → `País no registrado`
+
+**Estructura elegida:** Switch expressiones (C# 8+)
+
+**Justificación:** concisa y legible.
 
 **Evidencia:**
-![Salida](evidencias/salida.png)
+![Salida](evidencias/image.png)
