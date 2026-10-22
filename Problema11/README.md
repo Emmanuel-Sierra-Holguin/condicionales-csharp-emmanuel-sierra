@@ -1,8 +1,14 @@
-﻿# Problema11. Registro electoral
+﻿# Problema 11. Semáforo inteligente
 
-**Estructura elegida:** 
+Define un tipo con los estados posibles de un semáforo: Rojo, Amarillo y Verde. Según el estado actual, el programa imprime la instrucción para el conductor:
 
-**Justificación:** 
+- Rojo → `Deténgase`
+- Amarillo → `Precaución, prepárese para detenerse`
+- Verde → `Avance`
+
+**Estructura elegida:** estructura if-else if
+
+**Justificación:** conciso y legible. excelente para desiciones basada en condiciones..
 
 **Evidencia:**
-![Salida](evidencias/salida.png)
+![Salida](evidencias/image.png)
