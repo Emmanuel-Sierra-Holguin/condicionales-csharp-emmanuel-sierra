@@ -1,8 +1,12 @@
-﻿# Problema07. Registro electoral
+﻿# Problema 7. Signo de un número
 
-**Estructura elegida:** 
+Lee un número entero e indica si es positivo, negativo o cero.
 
-**Justificación:** 
+- 8 → `Positivo` · -5 → `Negativo` · 0 → `Cero`
+
+**Estructura elegida:** estructura if - else if.
+
+**Justificación:** por su legibilidad, flexibilidad y manejo de condiciones simples.
 
 **Evidencia:**
-![Salida](evidencias/salida.png)
+![Salida](evidencias/image.png)
